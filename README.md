@@ -2,4 +2,4 @@
 Nelineární regrese experimentálních dat na matematický model daný diferenciální rovnicí
 
 
-Demo je k dispozici na http://www.e-academia.cz
+Tutoriál je k dispozici na http://www.e-academia.cz
